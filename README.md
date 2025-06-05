@@ -2,7 +2,7 @@
 
 This mock project simulates how an entry-level GRC or IT auditor might track and report compliance with the NIST 800-53 security control framework.
 Download full compliance report:
-(
+(https://github.com/JoleanMcPherson/grc-compliance-tracker/blob/44ae403a325a11d0ef1969c2511b4d0cdad7a74a/NIST%20800-53%20Compliance%20Snapshot.pdf)
 
 ---
 
