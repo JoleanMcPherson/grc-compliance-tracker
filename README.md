@@ -1,1 +1,55 @@
-# grc-compliance-tracker
+# 🛡️ GRC Compliance Tracker (Mock Project)
+
+This mock project simulates how an entry-level GRC or IT auditor might track and report compliance with the NIST 800-53 security control framework.
+
+---
+
+## 🔧 System: "FictionalApp" – Internal HR Web Portal
+
+**Assessment Date**: June 5, 2025
+**Framework**: NIST 800-53 Rev. 5
+**Stakeholders**: HR Director, IT Security Lead, GRC Analyst
+
+---
+
+## 📋 Sample Control Checklist
+
+| Control ID | Control Name | Status | Notes / Remediation |
+|------------|----------------------------------|---------------|----------------------|
+| AC-2 | Account Management | Compliant | All user accounts require approval and are reviewed quarterly |
+| AC-17 | Remote Access | Not Compliant | MFA not enforced for VPN — ticket submitted to IT (PRJ-42) |
+| AU-6 | Audit Review, Analysis & Reporting| Planned | Audit log reviews to be implemented in Q3 |
+| IR-4 | Incident Handling | Compliant | Incident response plan documented and tested in TTX |
+| CM-6 | Configuration Settings | Not Compliant | System baselines not yet defined — pending hardening guide |
+
+---
+
+## 🧠 How This Mock Project Was Built
+
+- Controls selected from the [NIST 800-53 catalog](https://nvd.nist.gov/800-53)
+- Status assigned based on simulated assessments
+- Stakeholders listed to reflect committee-level ownership
+- Notes show how compliance is documented or remediated
+
+---
+
+## 🧾 Sample Stakeholder Update (Email Summary)
+
+> *Subject: Q2 Compliance Snapshot – FictionalApp*
+> Hello team,
+> Here's the Q2 compliance status for our internal HR system. Two controls remain non-compliant (AC-17, CM-6), both of which are scheduled for remediation by end of Q3. Full audit logs and IR procedures are active.
+> – GRC Analyst (Jolean McPherson)
+
+---
+
+## 📌 Why This Matters
+
+Understanding control frameworks like NIST 800-53 is essential for:
+- IT auditing
+- Governance, Risk & Compliance (GRC)
+- Risk assessments and stakeholder reporting
+
+This project demonstrates my ability to:
+- Interpret control requirements
+- Track and report compliance status
+- Communicate clearly with both technical and non-technical audiences
