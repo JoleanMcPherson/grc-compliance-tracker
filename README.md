@@ -4,6 +4,9 @@ This mock project simulates how an entry-level GRC or IT auditor might track and
 Download full compliance report:
 [NIST_Compliance_Snapshot.docx](https://github.com/JoleanMcPherson/grc-compliance-tracker/blob/44ae403a325a11d0ef1969c2511b4d0cdad7a74a/NIST%20800-53%20Compliance%20Snapshot.pdf)
 
+Download compliance tracker (Excel):(   )
+
+[NIST_Compliance_Tracker_Jolean_McPherson.xlsx]
 ---
 
 ## 🔧 System: "FictionalApp" – Internal HR Web Portal
