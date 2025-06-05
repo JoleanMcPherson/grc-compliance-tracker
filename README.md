@@ -7,6 +7,9 @@ Download full compliance report:
 Download compliance tracker (Excel):
 [NIST_Compliance_Tracker_Jolean_McPherson.xlsx](https://github.com/JoleanMcPherson/grc-compliance-tracker/blob/c91f351e6a4b99aa6187f7e3efee74bd3c6ef767/NIST_Compliance_Tracker_Jolean_McPherson.xlsx)
 
+Download slide deck (PowerPoint):
+[NIST_Compliance_Slides.pptx](https://github.com/JoleanMcPherson/grc-compliance-tracker/blob/fefa9990857241e9d9744c90f82c19b16fa63d6f/NIST_Compliance_Slides_Jolean_McPherson.pptx)
+
 ---
 
 ## 🔧 System: "FictionalApp" – Internal HR Web Portal
